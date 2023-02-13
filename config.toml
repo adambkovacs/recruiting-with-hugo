@@ -1,6 +1,6 @@
 baseURL = 'http://recruitingwith.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Recruiting with'
 theme = 'digitalgarden'
 [menu]
 [[menu.main]]
